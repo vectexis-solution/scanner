@@ -82,7 +82,7 @@ python vectexis_scanner.py <command> [options]
 ### `scan`: Port scanning with Nmap
 
 ```bash
-python vectexis_scanner.py scan -t <target> [-p <ports>] [-o <file>] [--fast]
+python scanner.py scan -t <target> [-p <ports>] [-o <file>] [--fast]
 ```
 
 | Option | Description | Default |
