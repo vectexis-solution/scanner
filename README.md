@@ -50,7 +50,7 @@ Both modes can save their results to a report file for later review.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/vectexis-solution/vectexis-scanner.git
+git clone https://github.com/vectexis-solution/scanner.git
 cd vectexis-scanner
 
 # 2. (Optional) Create a virtual environment
