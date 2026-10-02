@@ -230,3 +230,10 @@ Contributions, issues, and feature requests are welcome. Feel free to open an is
 Made with ❤️ by **Vectexis Solution**
 
 </div>
+<div>
+- Developed By: Vectexis Solution Cybersecurity Technology Company.
+<br>
+ - Founder: Yar Muhammad Mangi
+<br>
+ Keywords: vectexis scanner, scanner by vectexis, scanner by vectexis solution, Vectexis Solution, Yar Muhammad Mangi, Open source.
+</div>
