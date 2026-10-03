@@ -231,9 +231,9 @@ Made with ❤️ by **Vectexis Solution**
 
 </div>
 <div>
-- Developed By: Vectexis Solution Cybersecurity Technology Company.
+- Developed By: Vectexis Solution.
 <br>
  - Founder: Yar Muhammad Mangi
 <br>
- Keywords: vectexis scanner, scanner by vectexis, scanner by vectexis solution, Vectexis Solution, Yar Muhammad Mangi, Open source.
+ Keywords: vectexis scanner, scanner by vectexis, scanner by vectexis solution, Vectexis Solution,vectexis, vectexis solution, Vectexis Solution Cybersecurity Technology Company, Vectexis Solution Cybersecurity Company, Yar Muhammad Mangi, Open source.
 </div>
